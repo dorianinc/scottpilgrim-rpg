@@ -2,7 +2,7 @@
 body 
 {
     background-color: #950000;
-    width: 960px;
+    width: 100%
 }
 
 /*Font for Start button */
@@ -24,7 +24,7 @@ body
 /* Start Button */
 .start
 {
-    width: 0%;
+    width: 15%;
     margin: auto;
 }
 
@@ -49,14 +49,19 @@ button
 /* Scott Pilgrim playing guitar sprite*/
 .content
 {
-    width: 960px;
+    width: 100%;
 }
 .sprite
 {
-    width: 0%;
-    margin-top: 200%;
+    width: 15%;
     margin: auto;
+}
 
+.scott
+{
+    height: 50px;
+    margin-top: 70%;
+    margin-left: 22.5%;
 }
 
 
