@@ -1,0 +1,61 @@
+/* Background color for whole page */
+body 
+{
+    background-color: #950000;
+}
+
+/*Font for Start button */
+@font-face
+{
+    font-family:  'dusty';
+    src: url('../fonts/dusty.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* Scott Pilgrim vs. The World banner*/
+.vstheworld
+{
+    width: 66.4%;
+    margin: auto;
+}
+
+/* Start Button */
+.start
+{
+    width:15%;
+    margin: auto;
+}
+
+/* Hover effect */
+.start :hover
+{
+    background-color: #680000;
+}
+
+button
+{
+    font-family: 'dusty';
+    background-color: #950000;
+    font-size: 16px;
+    text-align: center;
+    border: dotted;
+    border-radius: 5px;
+    color: white;
+    padding: 15px 32px;
+}
+
+/* Scott Pilgrim playing guitar sprite*/
+.sprite
+{
+    width: 9.5%;
+    margin: auto;
+    margin-top: 10%;
+}
+
+.scott
+{
+    height: 50px;
+    width: 50px;
+}
+
